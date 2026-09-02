@@ -1,0 +1,65 @@
+[
+  {
+    "Model": "Canon LBP2900",
+    "HardwareID": "USBPRINT\\CanonLBP2900",
+    "SnmpKeyword": "LBP2900",
+    "DriverName": "Canon LBP2900",
+    "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.LBP2900.zip"
+  },
+  {
+    "Model": "Canon LBP3000",
+    "HardwareID": "USBPRINT\\CanonLBP3000",
+    "SnmpKeyword": "LBP3000",
+    "DriverName": "Canon LBP3000",
+    "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.LBP3000.zip"
+  },
+  {
+    "Model": "Canon LBP3300",
+    "HardwareID": "USBPRINT\\CanonLBP3300",
+    "SnmpKeyword": "LBP3300",
+    "DriverName": "Canon LBP3300",
+    "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.LBP3300.zip"
+  },
+  {
+    "Model": "Canon LBP6030",
+    "HardwareID": "USBPRINT\\CanonLBP6030",
+    "SnmpKeyword": "LBP6030",
+    "DriverName": "Canon LBP6030/6040/6018L",
+    "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/LBP6030.zip"
+  },
+  {
+    "Model": "Canon LBP6230",
+    "HardwareID": "USBPRINT\\CanonLBP6230",
+    "SnmpKeyword": "LBP6230",
+    "DriverName": "Canon LBP6230/6240",
+    "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.LBP6230.zip"
+  },
+  {
+    "Model": "Canon Universal (Modern)",
+    "HardwareID": "USBPRINT\\Canon",
+    "SnmpKeyword": "Canon",
+    "DriverName": "Canon Generic Plus UFR II",
+    "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.Generic.Plus.UFR.II.zip"
+  },
+  {
+    "Model": "HP Universal Printers",
+    "HardwareID": "USBPRINT\\HEWLETT-PACKARD",
+    "SnmpKeyword": "HP",
+    "DriverName": "HP Universal Printing PCL 6",
+    "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/HP.Universal.Printing.PCL.6.zip"
+  },
+  {
+    "Model": "Brother Laser Printers",
+    "HardwareID": "USBPRINT\\Brother",
+    "SnmpKeyword": "Brother",
+    "DriverName": "Brother Laser Printer Driver",
+    "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Brother.Laser.Printer.Driver.Disk.zip"
+  },
+  {
+    "Model": "Ricoh / Universal PCL6 Printers",
+    "HardwareID": "USBPRINT\\RICOH",
+    "SnmpKeyword": "PCL6",
+    "DriverName": "PCL6 V4 Driver for Universal Print",
+    "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/PCL6.V4.Driver.for.Universal.Print.zip"
+  }
+]
