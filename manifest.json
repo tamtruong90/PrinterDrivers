@@ -5,7 +5,7 @@
     "SnmpKeywords": ["LBP2900"],
     "DriverName": "Canon LBP2900",
     "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.LBP2900.zip",
-    "Sha256": ""
+    "Sha256": "d249137173677a07c6e111a877de6da1ae6f59355e45eb26cb2b5ef1c5eb7283"
   },
   {
     "Model": "Canon LBP3000",
@@ -13,7 +13,7 @@
     "SnmpKeywords": ["LBP3000"],
     "DriverName": "Canon LBP3000",
     "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.LBP3000.zip",
-    "Sha256": ""
+    "Sha256": "eab05a991ae2d38383d23013285e17c3f5b6a5ea1bddf036e2a714c6c51ae2e4"
   },
   {
     "Model": "Canon LBP3300",
@@ -21,7 +21,7 @@
     "SnmpKeywords": ["LBP3300"],
     "DriverName": "Canon LBP3300",
     "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.LBP3300.zip",
-    "Sha256": ""
+    "Sha256": "90a4cd05f34fec166df2c010de27201987f3c9a5e7cd145af8ef9d5878a3ecda"
   },
   {
     "Model": "Canon LBP6030",
@@ -29,7 +29,7 @@
     "SnmpKeywords": ["LBP6030"],
     "DriverName": "Canon LBP6030/6040/6018L",
     "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/LBP6030.zip",
-    "Sha256": ""
+    "Sha256": "a341104fc2c7c3acb287922178b62f69fb0e33e7ab3447619d554f9b082ee212"
   },
   {
     "Model": "Canon LBP6230",
@@ -37,7 +37,7 @@
     "SnmpKeywords": ["LBP6230"],
     "DriverName": "Canon LBP6230/6240",
     "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.LBP6230.zip",
-    "Sha256": ""
+    "Sha256": "c3722e59f07be2430a87038b3f74914c4e6d29a01f4bcac514e2a36d836b4e3f"
   },
   {
     "Model": "Canon Universal (Modern)",
@@ -45,7 +45,7 @@
     "SnmpKeywords": ["Canon"],
     "DriverName": "Canon Generic Plus UFR II",
     "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Canon.Generic.Plus.UFR.II.zip",
-    "Sha256": ""
+    "Sha256": "0a28ae358488343f7ab79df2e5feb3a681e098b4ed7f412fb5fe0f1ef0cd28ba"
   },
   {
     "Model": "HP Universal Printers",
@@ -53,7 +53,7 @@
     "SnmpKeywords": ["HP", "Hewlett-Packard"],
     "DriverName": "HP Universal Printing PCL 6",
     "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/HP.Universal.Printing.PCL.6.zip",
-    "Sha256": ""
+    "Sha256": "b05a72b7e7dbbaaf241c77e44f5209e4ac6aae12ccb3a8517acb910d3471e0eb"
   },
   {
     "Model": "Brother Laser Printers",
@@ -61,7 +61,7 @@
     "SnmpKeywords": ["Brother"],
     "DriverName": "Brother Laser Printer Driver",
     "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/Brother.Laser.Printer.Driver.Disk.zip",
-    "Sha256": ""
+    "Sha256": "d6aa32d6e997ab64dac2a64c260c8b389a3bf0f3dfc12809209d1a5ebb5321ea"
   },
   {
     "Model": "Ricoh / Universal PCL6 Printers",
@@ -69,6 +69,6 @@
     "SnmpKeywords": ["PCL6", "Ricoh"],
     "DriverName": "PCL6 V4 Driver for Universal Print",
     "DownloadUrl": "https://github.com/tamtruong90/PrinterDrivers/releases/latest/download/PCL6.V4.Driver.for.Universal.Print.zip",
-    "Sha256": ""
+    "Sha256": "a1f1223871fdc90b8978c3c2dfb9a7218948bf8c9f9928453761e939b7be85c2"
   }
 ]
